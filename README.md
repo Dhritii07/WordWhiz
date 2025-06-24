@@ -19,7 +19,7 @@ This is a simple word guessing game written in Python. The game selects a random
 1. **Clone the repository** (or download the files):
 
     ```bash
-    git clone https://github.com/yourusername/word-guessing-game.git
+    https://github.com/Dhritii07/WordWhiz.git
     ```
 
 2. **Prepare the word bank**: Ensure you have a file named `genz_words.txt` in the same directory as the Python script. Each line in the file should be a single word.
@@ -27,10 +27,8 @@ This is a simple word guessing game written in Python. The game selects a random
 3. **Run the game**:
 
     ```bash
-    python word_guessing_game.py
+    python wordWhiz.py
     ```
-
-    Replace `word_guessing_game.py` with the name of the Python file if it's different.
 
 ## Example
 
